@@ -23,12 +23,12 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'exchanges',
+          to: 'docs/exchanges',
           label: 'Exchanges',
           position: 'left',
         },
         {
-          to: 'https://tadpole.finance/',
+          href: 'https://tadpole.finance/',
           label: 'App',
           position: 'left',
         },
