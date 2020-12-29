@@ -23,12 +23,12 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'exchanges',
+          to: 'docs/exchanges',
           label: 'Exchanges',
           position: 'left',
         },
         {
-          to: 'https://tadpole.finance/',
+          href: 'https://tadpole.finance/',
           label: 'App',
           position: 'left',
         },
@@ -103,6 +103,10 @@ module.exports = {
             {
               label: 'Bithumb Global',
               href: 'https://www.bithumb.pro/en-us/exchange/professional?q=TAD-USDT',
+            },
+            {
+              label: 'Coinsbit',
+              href: 'https://coinsbit.io/trade/TAD_USDT',
             },
           ],
         },
