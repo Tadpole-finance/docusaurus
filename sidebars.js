@@ -3,6 +3,7 @@ module.exports = {
 	  'overview',
 	  'tad-token',
 	  'exchanges',
+	  'genesis',
 	  'staking',
 	  'testnet-platform',
 	  'developer-rewards',
