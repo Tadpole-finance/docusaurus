@@ -28,7 +28,7 @@ Genesis Mining program (ended) is the initial TAD distribution that will be dist
 
 DEX Liquidity Mining (ongoing) is a reward mechanism to ensure the liquidity of TAD and the supporting tokens are always maintained on decentralized exchanges. You can get TAD token by staking Uniswap LP tokens.
 
-Platform Liquidity Mining (upcoming) is a reward program to motivate saving and borrowing activities in Tadpole Finance. In addition to saving interest, a number of TAD is distributed to both savers and borrowers according to the size of the savings & the loan portion.
+Platform Liquidity Mining (To Be Announced) is a reward program to motivate saving and borrowing activities in Tadpole Finance. In addition to saving interest, a number of TAD is distributed to both savers and borrowers according to the size of the savings & the loan portion.
 
 Developer Rewards program is distributed to all developers that are involved in developing Tadpole Finance platform.
 
