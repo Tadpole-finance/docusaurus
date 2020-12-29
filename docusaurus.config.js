@@ -1,19 +1,19 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Tadpole Finance Docs',
+  tagline: 'Everything you need to know about Tadpole Finance.',
+  url: 'https://docs.tadpole.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/favicon-tadpole.ico',
+  organizationName: 'tadpole-finance', // Usually your GitHub org/user name.
+  projectName: 'tadpole-protocol', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: '',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Tadpole Finance Docs',
+        src: 'img/docs-logo.svg',
       },
       items: [
         {
@@ -22,10 +22,32 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'exchanges',
+          label: 'Exchanges',
+          position: 'left',
+        },
+        {
+          to: 'https://tadpole.finance/',
+          label: 'App',
+          position: 'left',
+        },
+        {
+          href: 'https://t.me/TadpoleFinance',
+          label: 'Telegram Group',
+          position: 'right',
+        },
+        {
+          href: 'https://www.coingecko.com/en/coins/tadpole-finance',
+          label: 'CoinGecko',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/Tadpole-finance',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
           position: 'right',
         },
       ],
@@ -37,12 +59,20 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Introduction',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'TAD Token',
+              to: 'docs/',
+            },
+            {
+              label: 'Guides',
+              to: 'docs/',
+            },
+            {
+              label: 'Ecosystem',
+              to: 'docs/',
             },
           ],
         },
@@ -50,16 +80,29 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Telegram Channel',
+              href: 'https://t.me/TadpoleFinanceChannel',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Telegram Group',
+              href: 'https://t.me/TadpoleFinance',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/TadpoleFinance',
+            },
+          ],
+        },
+        {
+          title: 'Exchanges',
+          items: [
+            {
+              label: 'Uniswap',
+              to: 'https://uniswap.tadpole.finance/',
+            },
+            {
+              label: 'Bithumb Global',
+              href: 'https://www.bithumb.pro/en-us/exchange/professional?q=TAD-USDT',
             },
           ],
         },
@@ -67,17 +110,21 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'App',
+              to: 'https://tadpole.finance/',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/tadpole-finance',
+            },
+            {
+              label: 'Coingecko',
+              to: 'https://www.coingecko.com/en/coins/tadpole-finance',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `<br />Copyright © ${new Date().getFullYear()} Tadpole Finance`,
     },
   },
   presets: [
@@ -86,15 +133,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
