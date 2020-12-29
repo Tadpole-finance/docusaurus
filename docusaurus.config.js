@@ -104,6 +104,10 @@ module.exports = {
               label: 'Bithumb Global',
               href: 'https://www.bithumb.pro/en-us/exchange/professional?q=TAD-USDT',
             },
+            {
+              label: 'Coinsbit',
+              href: 'https://coinsbit.io/trade/TAD_USDT',
+            },
           ],
         },
         {
