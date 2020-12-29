@@ -59,20 +59,20 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Introduction',
+              label: 'Overview',
               to: 'docs/',
             },
             {
               label: 'TAD Token',
-              to: 'docs/',
+              to: 'docs/tad-token',
             },
             {
-              label: 'Guides',
-              to: 'docs/',
+              label: 'Exchanges',
+              to: 'docs/exchanges',
             },
             {
-              label: 'Ecosystem',
-              to: 'docs/',
+              label: 'Addresses',
+              to: 'docs/contract-addresses',
             },
           ],
         },
