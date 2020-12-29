@@ -1,6 +1,16 @@
 module.exports = {
-  someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-  },
+  someSidebar: [
+	  'overview',
+	  'tad-token',
+	  'exchanges',
+	  'staking',
+	  'testnet-platform',
+	  'developer-rewards',
+	  'contract-addresses',
+	  'architecture',
+	  'methods',
+	  'interest-model',
+	  'collateral-model',
+	  'price-oracle'
+  ],
 };
