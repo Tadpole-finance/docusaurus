@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/clipart-decentralized.png',
     description: (
       <>
-        Tadpole Finance is a DeFi project aims to create a more open lending markets, where any ERC20 tokens can be supported
+        Tadpole Finance is a DeFi project aims to create a more open lending markets, where any ERC-20 tokens can be supported
       </>
     ),
   },
