@@ -88,6 +88,10 @@ module.exports = {
               href: 'https://t.me/TadpoleFinance',
             },
             {
+              label: 'Tadpole Finance Indonesia',
+              href: 'https://t.me/TadpoleFinanceIndonesia',
+            },
+            {
               label: 'Twitter',
               href: 'https://twitter.com/TadpoleFinance',
             },
