@@ -91,6 +91,10 @@ module.exports = {
               label: 'Twitter',
               href: 'https://twitter.com/TadpoleFinance',
             },
+            {
+              label: 'Medium',
+              href: 'https://tadpolefinance.medium.com/',
+            },
           ],
         },
         {
