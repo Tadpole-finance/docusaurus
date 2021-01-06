@@ -27,7 +27,7 @@ You need to have LP tokens in your wallet to join DEX Liquidity Mining program. 
 
 ### How to stake LP tokens?
 
-You can earn TAD continuously by staking your LP tokens. Follow these steps to stake your LP tokens.
+You can earn TAD continuously by staking your LP tokens. Follow below steps to stake your LP tokens.
 
 1. Go to https://tadpole.finance/staking.html
 2. Enter the number of LP tokens to be stacked and select the lock period you want. The longer the locked period, the greater the rewards you will get.
