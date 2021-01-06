@@ -11,7 +11,7 @@ To participate in the DEX Liquidity Mining program, you need to store a number o
 
 ### How long will this program last?
 
-This staking program runs from Nov 13rd, 2020, until around Dec 1st, 2021 (ethereum block [#13750000](https://etherscan.io/block/countdown/13750000))
+This staking program runs from Nov 13th, 2020, until around Dec 1st, 2021 (ethereum block [#13750000](https://etherscan.io/block/countdown/13750000))
 
 ### How to add Uniswap Liquidity?
 
