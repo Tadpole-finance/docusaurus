@@ -43,7 +43,7 @@ The core developers will determine a score for each incoming pull request by ass
 
 Every month, a reward of 8333 TAD will be distributed to contributors by calculating from the ratio of score obtained by each developer compared to the total score issued for that month.
 
-For example, user1 made a pull request "Fix typo in documentation, TOD to TAD" and this is labeled as “score:very-low(1)”. At the end of the month, the total score from all pull requests is 97. The calculation of the reward obtained by user1 is:
+For example, user1 made a pull request "add important links, such as uniswap" and this is labeled as “score:very-low(1)”. At the end of the month, the total score from all pull requests is 97. The calculation of the reward obtained by user1 is:
 
 1/97 * 8333 = 85.90 TAD
 
