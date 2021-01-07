@@ -16,6 +16,14 @@ Participating this program is very easy. You can find issues you want to resolve
 
 To get started, please fork the repository at https://github.com/Tadpole-finance to your personal Github account. And after developing an issue or a feature, feel free to make a pull request to the main repositories. Your pull request will go through the review stage. And if the code review passes, your code will be merged and you are entitled to a reward.
 
+Pull Requests eligible for rewards must have the following criteria:
+
+* In accordance with the roadmap and objectives of Tadpole Finance.
+* Describe in detail the changes, improvements or improvements that have been made.
+* Include test results (if any).
+* Applies to all repositories on Github @ Tadpole-finance
+* PR is not just fixing typos / grammar.
+
 ### How are the rewards calculated?
 
 The distribution of rewards will be measured based on a score that represents the level of difficulty and the significance of your contribution to the Tadpole Finance ecosystem. Score is defined as follows:
