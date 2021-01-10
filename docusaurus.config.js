@@ -33,6 +33,11 @@ module.exports = {
           position: 'left',
         },
         {
+          href:'price token',
+          label: 'Price',
+          position: 'left',
+        },
+        {
           href: 'https://t.me/TadpoleFinance',
           label: 'Telegram Group',
           position: 'right',
