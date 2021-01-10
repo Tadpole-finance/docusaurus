@@ -36,7 +36,10 @@ You can earn TAD continuously by staking your LP tokens. Follow these steps to s
 
 3. Click the “Stake” button and approve the transaction using Metamask.
 4. Wait for the transaction to be confirmed by the Ethereum Network. If the transaction is successful, your LP Token balance will be deducted.
-5. Check the [staking page](https://tadpole.finance/staking.html) regularly to see the amount of TAD that can be claimed.
+### How to claim tad tokens?
+1.Check the [staking page](https://tadpole.finance/staking.html)
+2.see the amount of TAD that can be claimed.
+3.click the claim button will automatically enter your wallet 
 
 :::caution
 If you choose to lock your LP tokens, the tokens will be locked by the Ethereum smart contract. There will be no way to unlock the token except waiting for the locking period to end.
