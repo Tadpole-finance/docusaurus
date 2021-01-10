@@ -115,7 +115,7 @@ module.exports = {
             {
               label: 'Hotbit',
               href: 'https://www.hotbit.io/exchange?symbol=TAD_USDT',
-            }
+            },
           ],
         },
         {
