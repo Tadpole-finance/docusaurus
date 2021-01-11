@@ -91,6 +91,10 @@ module.exports = {
               label: 'Twitter',
               href: 'https://twitter.com/TadpoleFinance',
             },
+            {
+              label: 'Medium',
+              href: 'https://tadpolefinance.medium.com',
+            },
           ],
         },
         {
@@ -124,6 +128,10 @@ module.exports = {
             {
               label: 'Coingecko',
               to: 'https://www.coingecko.com/en/coins/tadpole-finance',
+            },
+            {
+              label: 'CoinMarketCap',
+              to: 'https://www.coinmarketcap.com/currencies/tadpole-finance',
             },
           ],
         },

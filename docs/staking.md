@@ -11,7 +11,7 @@ To participate in the DEX Liquidity Mining program, you need to store a number o
 
 ### How long will this program last?
 
-This staking program runs from Nov 13rd, 2020, until around Dec 1st, 2021 (ethereum block [#13750000](https://etherscan.io/block/countdown/13750000))
+This staking program runs from Nov 13th, 2020, until around Dec 1st, 2021 (ethereum block [#13750000](https://etherscan.io/block/countdown/13750000))
 
 ### How to add Uniswap Liquidity?
 
@@ -34,7 +34,7 @@ You can earn TAD continuously by staking your LP tokens. Follow these steps to s
 
 ![Stake LP tokens](https://indodax.academy/wp-content/uploads/2020/11/staking-tadpole-finance-3-1.jpg.webp)
 
-3. Click the “Stake” button and approve the transaction using Metamask
+3. Click the “Stake” button and approve the transaction using Metamask.
 4. Wait for the transaction to be confirmed by the Ethereum Network. If the transaction is successful, your LP Token balance will be deducted.
 5. Check the [staking page](https://tadpole.finance/staking.html) regularly to see the amount of TAD that can be claimed.
 

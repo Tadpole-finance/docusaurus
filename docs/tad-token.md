@@ -10,7 +10,7 @@ TAD is an ERC-20 token used for governing and paying token listing fees in Tadpo
 The total supply is 1,000,000 TAD.
 
 * Genesis Mining: 200,000 (20%) (30 days period) (ended)
-* Platform Liquidity Mining: 500,000 (50%) (2 year period) (TBA)
+* Platform Liquidity Mining: 500,000 (50%) (2 years period) (TBA)
 * DEX Liquidity Mining: 200,000 (20%) (1 year period) (ongoing)
 * Developer Rewards: 100,000 (10%) (1 year period) (ongoing)
 
