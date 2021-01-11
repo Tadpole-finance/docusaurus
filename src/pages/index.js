@@ -9,6 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Decentralized Finance',
+    to: 'docs/introduction',
     imageUrl: 'img/clipart-decentralized.png',
     description: (
       <>
@@ -18,6 +19,7 @@ const features = [
   },
   {
     title: 'TAD Token',
+    to: 'docs/tad-token',
     imageUrl: 'img/clipart-tokens.png',
     description: (
       <>
@@ -27,6 +29,7 @@ const features = [
   },
   {
     title: 'Staking',
+    to: 'docs/staking',
     imageUrl: 'img/clipart-present.png',
     description: (
       <>
