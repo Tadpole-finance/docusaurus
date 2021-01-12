@@ -112,6 +112,10 @@ module.exports = {
               label: 'Coinsbit',
               href: 'https://coinsbit.io/trade/TAD_USDT',
             },
+            {
+              label: 'Hotbit',
+              href: 'https://www.hotbit.io/exchange?symbol=TAD_USDT',
+            },
           ],
         },
         {
