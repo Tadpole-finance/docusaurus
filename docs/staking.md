@@ -46,4 +46,4 @@ If you choose to lock your LP tokens, the tokens will be locked by the Ethereum 
 
 TAD reward depends on the number of LP tokens you staked in the program. You can calculate Annual Percentage Yield (APY) using this formula:
 
-![APY formula](https://tadpole.finance/assets/images/stake-apy-formula.png)
+$$\frac{TAD~Price~\times~Stake~Reward}{Total~Liquidity~(USD)} ~\times$$ $$\frac{LP~Supply}{Total~Staked~LP} ~\times$$ $$\frac{Multiplier}{5}$$
