@@ -2,6 +2,13 @@
 id: price-oracle
 title: Price Oracle
 ---
+The Tadpole Protocol uses prices from a smart contract called a price oracle. The
+Comptroller and Liquidate Borrow functions reference the prices in this oracle. Multiple
+oracles may exist for the different Tadpole markets.
+
+getUnderlyingPrice( CToken cToken) returns uint
+
+* Return price of the underlying asset (as a mantissa)
 
 Get cryptographically signed prices ready to be posted on-chain using [Open Oracle](https://github.com/compound-finance/open-oracle) smart contracts.
 
