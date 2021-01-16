@@ -24,6 +24,12 @@
   justify-content: center;
 }
 
+.readmoreBtn {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
 .features {
   display: flex;
   align-items: center;
