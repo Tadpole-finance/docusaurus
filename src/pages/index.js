@@ -15,6 +15,7 @@ const features = [
         Tadpole Finance is a DeFi project aims to create a more open lending markets, where any ERC-20 tokens can be supported
       </>
     ),
+      link: 'docs/#introduction',
   },
   {
     title: 'TAD Token',
@@ -24,6 +25,7 @@ const features = [
         TAD is an ERC-20 token used for governing and paying listing fees in Tadpole Finance ecosystem
       </>
     ),
+      link: 'docs/tad-token/',
   },
   {
     title: 'Staking',
@@ -33,10 +35,11 @@ const features = [
         You can stake various assets to get TAD token as a reward. DEX liquidity and platform liquidity mining are available.
       </>
     ),
+      link: 'docs/staking#how-to-stake-lp-tokens',
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({imageUrl, title, description, link}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
@@ -47,6 +50,16 @@ function Feature({imageUrl, title, description}) {
       )}
       <h3>{title}</h3>
       <p>{description}</p>
+      <div className={styles.readmoreBtn}>
+        <Link
+            className={clsx(
+                'button button--outline button--primary button--xs',
+                styles.getStarted,
+            )}
+            to={useBaseUrl(link)}>
+          Read More...
+        </Link>
+      </div>
     </div>
   );
 }
