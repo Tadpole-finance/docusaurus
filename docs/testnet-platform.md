@@ -34,7 +34,7 @@ You can try the saving & lending platform at [tadpole.finance](https://tadpole.f
 8. Back to [tadpole.finance](https://tadpole.finance).
 9. On Supply tab, click the test token you want to supply (e.g USDT).
 10. Enter the amount you want to supply.
-111. Click "Continue" to Supply the Token, or "Redeem" to take it back then approve the transaction.
+11. Click "Continue" to Supply the Token, or "Redeem" to take it back then approve the transaction.
 
 12. For Borrowing, you can click on the Tokens/Coins you want to borrow.
 13. Then click on "Continue" to borrow the cryptoasset, or "Repay" to repay your debt, then approve the transaction.
