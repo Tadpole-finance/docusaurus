@@ -38,6 +38,11 @@ module.exports = {
           position: 'right',
         },
         {
+          href: 'https://coinmarketcap.com/currencies/tadpole-finance/',
+          label: 'CoinMarketCap',
+          position: 'right',
+        },
+        {
           href: 'https://www.coingecko.com/en/coins/tadpole-finance',
           label: 'CoinGecko',
           position: 'right',
