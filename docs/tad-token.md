@@ -12,7 +12,7 @@ The total supply is 1,000,000 TAD.
 * Genesis Mining: 200,000 (20%) (30 days period) (ended)
 * Platform Liquidity Mining: 500,000 (50%) (2 years period) (TBA)
 * DEX Liquidity Mining: 200,000 (20%) (1 year period) (ongoing)
-* Developer Rewards: 100,000 (10%) (1 year period) (ongoing)
+* Development Team: 100,000 (10%)
 
 
 ## How to get TAD?
@@ -21,7 +21,6 @@ There are few ways to get TAD token:
 * Genesis Mining program (ended)
 * [DEX Liquidity Mining](staking) (ongoing)
 * Platform Liquidity Mining (TBA)
-* [Developer Rewards program](developer-rewards) (ongoing)
 * [Buying it through various exchanges](exchanges)
 
 Genesis Mining program (ended) is the initial TAD distribution that will be distributed to TEN holders. To participate this program, you need to hold some TEN tokens and stake them through https://tadpole.finance. This program will last for 30 days.
