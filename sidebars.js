@@ -5,7 +5,6 @@ module.exports = {
 	  'exchanges',
 	  'staking',
 	  'testnet-platform',
-	  'developer-rewards',
 	  'contract-addresses',
 	  'architecture',
 	  'methods',
