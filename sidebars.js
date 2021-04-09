@@ -4,7 +4,6 @@ module.exports = {
 	  'tad-token',
 	  'exchanges',
 	  'staking',
-	  'testnet-platform',
 	  'contract-addresses',
 	  'architecture',
 	  'methods',
