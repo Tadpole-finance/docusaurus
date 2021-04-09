@@ -9,7 +9,7 @@ slug: /
 
 These docs are a comprehensive guide to Tadpole Finance. The protocol codebase is hosted on [Github](https://github.com/Tadpole-finance) and maintained by the community.
 
-You can try the saving & lending platform at [tadpole.finance](https://tadpole.finance). Currently, the platform is still under development and is not ready for real money transactions. We need to make sure all codes are well tested and formally audited before we launch it on the mainnet. The Tadpole smart contracts were deployed in the Goerli testnet and can play around using testnet tokens. [Here is the guide on how to test Tadpole Testnet Platform](testnet-platform).
+You can use the saving & lending platform at tadpole.finance. Currently, Tadpole smart contracts were deployed in the Binance Smart Chain network. You can save your BEP20 tokens and get interest or lend available BEP20 tokens you want while using another token as a collateral. In addition, everyone can also add any BEP20 token by paying some TAD Token as the listing fee. Let’s join the next level of decentralized saving and lending system which more transparent, immutable, and open for everyone!
 
 To keep up with the latest news, join our telegram channel at [t.me/TadpoleFinanceChannel](https://t.me/TadpoleFinanceChannel) and discuss with the Tadpole community at [t.me/TadpoleFinance](https://t.me/TadpoleFinance)
 
