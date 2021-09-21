@@ -5,7 +5,7 @@ title: Contract Addresses
 
 If you are doing manual transactions or developing applications interacting with Tadpole Finance's smart contract, make sure you are using the correct smart contract addresses.
 
-Below is a list of smart contract addresses related to Tadpole Finance on the Ethereum Mainnet.
+Below is a list of smart contract addresses related to Tadpole Finance on the Ethereum Mainnet and BSC.
 
 * TAD token: [0x9f7229aF0c4b9740e207Ea283b9094983f78ba04](https://etherscan.io/address/0x9f7229aF0c4b9740e207Ea283b9094983f78ba04)
 * TAD token (BSC) : [0x9f7229aF0c4b9740e207Ea283b9094983f78ba04](https://bscscan.com/token/0x9f7229aF0c4b9740e207Ea283b9094983f78ba04)

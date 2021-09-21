@@ -9,6 +9,7 @@ module.exports = {
 	  'methods',
 	  'interest-model',
 	  'collateral-model',
-	  'price-oracle'
+	  'price-oracle',
+    // 'universal-bridge'
   ],
 };

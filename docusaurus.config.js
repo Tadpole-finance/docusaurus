@@ -28,7 +28,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://tadpole.finance/',
+          href: 'https://app.tadpole.finance/',
           label: 'App',
           position: 'left',
         },
@@ -119,7 +119,7 @@ module.exports = {
           items: [
             {
               label: 'App',
-              to: 'https://tadpole.finance/',
+              to: 'https://app.tadpole.finance/',
             },
             {
               label: 'GitHub',

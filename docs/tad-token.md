@@ -20,14 +20,14 @@ The total supply is 1,000,000 TAD.
 There are few ways to get TAD token:
 * Genesis Mining program (ended)
 * [DEX Liquidity Mining](staking) (ongoing)
-* Platform Liquidity Mining (TBA)
+* Platform Liquidity Mining (ongoing)
 * [Buying it through various exchanges](exchanges)
 
-Genesis Mining program (ended) is the initial TAD distribution that will be distributed to TEN holders. To participate this program, you need to hold some TEN tokens and stake them through https://tadpole.finance. This program will last for 30 days.
+Genesis Mining program (ended) is the initial TAD distribution that will be distributed to TEN holders. To participate this program, you need to hold some TEN tokens and stake them through https://app.tadpole.finance. This program will last for 30 days.
 
 DEX Liquidity Mining (ongoing) is a reward mechanism to ensure the liquidity of TAD and the supporting tokens are always maintained on decentralized exchanges. You can get TAD token by staking Uniswap LP tokens.
 
-Platform Liquidity Mining (upcoming) is a reward program to motivate activities in Tadpole Finance. In addition to saving interest, a number of TAD is distributed to savers according to the size of the savings portion.
+Platform Liquidity Mining (ongoing) is a reward program to motivate activities in Tadpole Finance. In addition to saving interest, a number of TAD is distributed to savers according to the size of the savings portion.
 
 Developer Rewards program is distributed to all developers that are involved in developing Tadpole Finance platform.
 
