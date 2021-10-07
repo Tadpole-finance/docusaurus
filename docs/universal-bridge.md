@@ -9,6 +9,9 @@ Universal Bridge is a tool provided by Tadpole Finance to facilitate its users i
 
 The tool is located at https://app.tadpole.finance/universalbridge.html
 
+## Converting TAD Tokens
+To convert TAD tokens, type "TAD" into the search box and click on the TAD option. The real TAD token can be identified with the TAD logo.
+
 ## Creating a new Token Bridge
 
 To create a new Token Bridge, first you will need to input the ERC20 token address to the provided search box. After that, two boxes will show up, each showing the token details of the ERC20 and BEP20 version of the token. If the Token Bridge is not created yet, you will need to create it first. 10 TAD will be burned in the process of creating a new bridge.
@@ -16,6 +19,8 @@ To create a new Token Bridge, first you will need to input the ERC20 token addre
 ![Create new token bridge](/img/universalbridge/createNewBridge.jpeg)
 
 After the transaction is confirmed, a new BEP20 token will be created and users will be able to use the bridge to convert their ERC20 tokens to BEP20, and vice versa. 
+
+Note: The Bridge does not support rebase or reflection type tokens. Please avoid using the bridge for those type of tokens.
 
 ## Converting ERC20 to BEP20
 
