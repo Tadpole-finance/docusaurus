@@ -10,6 +10,6 @@ module.exports = {
 	  'interest-model',
 	  'collateral-model',
 	  'price-oracle',
-    // 'universal-bridge'
+    'universal-bridge'
   ],
 };
